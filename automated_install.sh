@@ -5,13 +5,13 @@
 #-------------------------------------------------------
 
 # This is the name given to your device or mobile app in the Amazon developer portal. To look this up, navigate to https://developer.amazon.com/edw/home.html. It may be labeled Device Type ID.
-ProductID=YOUR_PRODUCT_ID_HERE
+ProductID=aA3EKF88REQ471G
 
 # Retrieve your client ID from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientID=YOUR_CLIENT_ID_HERE
+ClientID=amzn1.application-oa2-client.8db483113a0b448facf86c7d7de8f4d9
 
 # Retrieve your client secret from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientSecret=YOUR_CLIENT_SECRET_HERE
+ClientSecret=c3b43272a58bb16e6a0bf8eee8be80881ad89a7729ae9e02f1ccfd285a614f13
 
 #-------------------------------------------------------
 # No need to change anything below this...
@@ -22,15 +22,15 @@ ClientSecret=YOUR_CLIENT_SECRET_HERE
 #-------------------------------------------------------
 
 # Your Country. Must be 2 characters!
-Country='US'
+Country='UK'
 # Your state. Must be 2 or more characters.
-State='WA'
+State='GB'
 # Your city. Cannot be blank.
-City='SEATTLE'
+City='London'
 # Your organization name/company name. Cannot be blank.
-Organization='AVS_USER'
+Organization='AlexaPi'
 # Your device serial number. Cannot be blank, but can be any combination of characters.
-DeviceSerialNumber='1xxxxxxxxxx'
+DeviceSerialNumber='1234567890abcdefgh'
 # Your KeyStorePassword. We recommend leaving this blank for testing.
 KeyStorePassword=''
 
